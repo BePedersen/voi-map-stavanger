@@ -5,7 +5,7 @@ from shapely.geometry import Point, Polygon
 from folium import Element, CustomIcon
 
 # --- Config ---
-kml_path = "zone_ops_stav.kml"
+kml_path = "zone_ops_stav-v2.kml"
 output_html = "index.html"
 map_center = [58.97104, 5.74131]
 
